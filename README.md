@@ -1,4 +1,4 @@
-# MVP Studio - Project Mars111
+# MVP Studio - Project Mars
 
 ### 1. Install Docker
 Ensure you have the latest version of Docker installed. You can download it from Docker's official website. Follow the instructions for your operating system.
